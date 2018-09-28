@@ -1,14 +1,24 @@
 fileFormatVersion: 2
-guid: e74eea4f167bffd42868976bca848456
+guid: 2dac31861b81e4644b2fd6085dc3f560
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
+    100002: Left Cupboard
+    100004: Right Cupboard
     400000: //RootNode
+    400002: Left Cupboard
+    400004: Right Cupboard
     2100000: No Name
     2300000: //RootNode
+    2300002: Left Cupboard
+    2300004: Right Cupboard
     3300000: //RootNode
-    4300000: Vase 1
+    3300002: Left Cupboard
+    3300004: Right Cupboard
+    4300000: Shelves
+    4300002: Left Cupboard
+    4300004: Right Cupboard
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -48,7 +58,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0

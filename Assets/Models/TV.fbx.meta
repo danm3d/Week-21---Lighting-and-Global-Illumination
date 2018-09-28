@@ -1,14 +1,19 @@
 fileFormatVersion: 2
-guid: e74eea4f167bffd42868976bca848456
+guid: 72442472360c8c143ac261ccb6de4c87
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: //RootNode
-    400000: //RootNode
+    100000: Screen
+    100002: //RootNode
+    400000: Screen
+    400002: //RootNode
     2100000: No Name
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: Vase 1
+    2300000: Screen
+    2300002: //RootNode
+    3300000: Screen
+    3300002: //RootNode
+    4300000: TV
+    4300002: Screen
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -48,7 +53,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
