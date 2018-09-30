@@ -1,18 +1,27 @@
 fileFormatVersion: 2
-guid: e74eea4f167bffd42868976bca848456
+guid: d50108aaf1c3f00419d6e27bf09c2623
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: //RootNode
-    400000: //RootNode
+    100000: Bulb
+    100002: //RootNode
+    100004: LampShade
+    400000: Bulb
+    400002: //RootNode
+    400004: LampShade
     2100000: No Name
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: Vase 1
-    4300002: Vase 2
+    2300000: Bulb
+    2300002: //RootNode
+    2300004: LampShade
+    3300000: Bulb
+    3300002: //RootNode
+    3300004: LampShade
+    4300000: Lamp
+    4300002: Bulb
+    4300004: LampShade
   externalObjects: {}
   materials:
-    importMaterials: 0
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -49,7 +58,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
@@ -68,7 +77,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 0
+  importAnimation: 1
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2

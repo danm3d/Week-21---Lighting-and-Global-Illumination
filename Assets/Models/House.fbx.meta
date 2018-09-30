@@ -1,18 +1,60 @@
 fileFormatVersion: 2
-guid: e74eea4f167bffd42868976bca848456
+guid: ad140fc50fcaeb646bff621a1d75cb36
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: //RootNode
-    400000: //RootNode
+    100000: Column
+    100002: Door_L
+    100004: Door_R
+    100006: Floor
+    100008: //RootNode
+    100010: Roof
+    100012: Room
+    100014: Window
+    100016: Window_L
+    100018: Window_R
+    400000: Column
+    400002: Door_L
+    400004: Door_R
+    400006: Floor
+    400008: //RootNode
+    400010: Roof
+    400012: Room
+    400014: Window
+    400016: Window_L
+    400018: Window_R
     2100000: No Name
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: Vase 1
-    4300002: Vase 2
+    2100002: Material
+    2300000: Column
+    2300002: Door_L
+    2300004: Door_R
+    2300006: Floor
+    2300008: Roof
+    2300010: Room
+    2300012: Window
+    2300014: Window_L
+    2300016: Window_R
+    3300000: Column
+    3300002: Door_L
+    3300004: Door_R
+    3300006: Floor
+    3300008: Roof
+    3300010: Room
+    3300012: Window
+    3300014: Window_L
+    3300016: Window_R
+    4300000: Floor
+    4300002: Roof
+    4300004: Room
+    4300006: Door_L
+    4300008: Window_L
+    4300010: Door_R
+    4300012: Window_R
+    4300014: Column
+    4300016: Window
   externalObjects: {}
   materials:
-    importMaterials: 0
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -68,7 +110,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 0
+  importAnimation: 1
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
