@@ -13,6 +13,8 @@ ModelImporter:
     100014: Window
     100016: Window_L
     100018: Window_R
+    100020: Inner Wall
+    100022: Outer Wall
     400000: Column
     400002: Door_L
     400004: Door_R
@@ -23,6 +25,8 @@ ModelImporter:
     400014: Window
     400016: Window_L
     400018: Window_R
+    400020: Inner Wall
+    400022: Outer Wall
     2100000: No Name
     2100002: Material
     2300000: Column
@@ -34,6 +38,8 @@ ModelImporter:
     2300012: Window
     2300014: Window_L
     2300016: Window_R
+    2300018: Inner Wall
+    2300020: Outer Wall
     3300000: Column
     3300002: Door_L
     3300004: Door_R
@@ -43,6 +49,8 @@ ModelImporter:
     3300012: Window
     3300014: Window_L
     3300016: Window_R
+    3300018: Inner Wall
+    3300020: Outer Wall
     4300000: Floor
     4300002: Roof
     4300004: Room
@@ -52,6 +60,8 @@ ModelImporter:
     4300012: Window_R
     4300014: Column
     4300016: Window
+    4300018: Inner Wall
+    4300020: Outer Wall
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -99,9 +109,9 @@ ModelImporter:
     preserveHierarchy: 0
     indexFormat: 0
     secondaryUVAngleDistortion: 8
-    secondaryUVAreaDistortion: 15.000001
-    secondaryUVHardAngle: 88
-    secondaryUVPackMargin: 4
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 60
+    secondaryUVPackMargin: 8
     useFileScale: 1
     previousCalculatedGlobalScale: 1
     hasPreviousCalculatedGlobalScale: 0
